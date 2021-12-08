@@ -13,7 +13,7 @@ http://localhost:8080/patient
 ###Important Notes
 
 The app is not deployed, db has been set up locally. As mapping is conducted to provide a copy of the objects in the local db, the app will not run without a db connection.
-Please see `application.properties` in Deadalus\backend\src\main\resources
+Please see `application.properties` in task\src\main\resources
 
 
 
